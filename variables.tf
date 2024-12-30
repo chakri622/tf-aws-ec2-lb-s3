@@ -80,6 +80,7 @@ variable "billing_code" {
   type        = string
   description = "Billing for resource tagging"
 
+
 }
 
 variable "naming_prefix" {
